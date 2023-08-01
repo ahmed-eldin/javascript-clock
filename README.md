@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="808" alt="Screenshot 2023-08-01 at 4 57 41 PM" src="https://github.com/ahmed-eldin/javascript-clock/assets/111728755/274e1a99-4df5-41a3-a34b-9a19938d1a51">
 
 
 # JavaScript Clock App
