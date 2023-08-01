@@ -35,4 +35,4 @@ This project was built using JavaScript, HTML, and CSS to provide a functional a
 
 ##  
 
-Stay punctual with the JavaScript Clock. Whether you need to keep track of time or enjoy the simplicity of its design, this clock app is both functional and visually appealing. Customize the clock to match your style and explore new possibilities with this elegant timekeeping tool! 🕒⏰🌟
+Stay punctual with the JavaScript Clock. Whether you need to keep track of time or enjoy the simplicity of its design, this clock app is both functional and visually appealing. Customize the clock to match your style and explore new possibilities with this elegant timekeeping tool. 🕒⏰🌟
